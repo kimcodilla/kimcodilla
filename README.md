@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimcodilla
 - 👀 I’m interested in RPA (UiPath and Workato)
-- 🌱 I’m currently learning C#.NET, Python, and JS
+- 🌱 I’m also fond of C#, Seleniu, and Python
 
 <!---
 kimcodilla/kimcodilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
